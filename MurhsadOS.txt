@@ -16,9 +16,9 @@
       "StaticAdPeriority": "Unity",
       "isBannerAdPeriorityMatters": false,
       "BannerAdPeriority": "Admob",
-      "UnityAdIds": "37808610497157",
-      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059876558707463",
-      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059878638075889"
+      "UnityAdIds": "37803650290156",
+      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059877908795654",
+      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059878816173906"
     },
     {
       "BundleId": "com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game",
