@@ -11,7 +11,7 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-9099520579559834/4549754365288212"
     },
     {
-      "BundleId": "com.extreme.productions.highwayway.car.transform.stunts2019",
+      "BundleId": "com.abdulghafoor.highway.car.transform2019",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Unity",
       "isBannerAdPeriorityMatters": false,
