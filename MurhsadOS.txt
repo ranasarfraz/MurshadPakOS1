@@ -1,0 +1,55 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37306511618727",
+      "AdmobBannerAdIds": "ca-app-pub-9099520579559834/4549754935175990",
+      "AdmobInsterstitialAdIds": "ca-app-pub-9099520579559834/4549754365288212"
+    },
+    {
+      "BundleId": "com.extreme.productions.highwayway.car.transform.stunts2019",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Unity",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37808610497157",
+      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059876558707463",
+      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059878638075889"
+    },
+    {
+      "BundleId": "com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Admob",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37405771405910",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375778316778431",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375776456901851"
+    },
+    {
+      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Admob",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "37400701021710",
+      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059873383630234",
+      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059876224581842"
+    },
+    {
+      "BundleId": "com.gladiators.testIds",
+      "isStaticAdPeriorityMatters": false,
+      "StaticAdPeriority": "Admob",
+      "isBannerAdPeriorityMatters": false,
+      "BannerAdPeriority": "Admob",
+      "UnityAdIds": "1518267508",
+      "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
+      "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832"
+    }
+    
+  ]
+}
