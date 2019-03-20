@@ -21,26 +21,6 @@
       "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059878816173906"
     },
     {
-      "BundleId": "com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game",
-      "isStaticAdPeriorityMatters": false,
-      "StaticAdPeriority": "Admob",
-      "isBannerAdPeriorityMatters": false,
-      "BannerAdPeriority": "Admob",
-      "UnityAdIds": "37405771405910",
-      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375778316778431",
-      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375776456901851"
-    },
-    {
-      "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
-      "isStaticAdPeriorityMatters": false,
-      "StaticAdPeriority": "Admob",
-      "isBannerAdPeriorityMatters": false,
-      "BannerAdPeriority": "Admob",
-      "UnityAdIds": "37400701021710",
-      "AdmobBannerAdIds": "ca-app-pub-10119762544338416/5059873383630234",
-      "AdmobInsterstitialAdIds": "ca-app-pub-10119762544338416/5059876224581842"
-    },
-    {
       "BundleId": "com.gladiators.testIds",
       "isStaticAdPeriorityMatters": false,
       "StaticAdPeriority": "Admob",
