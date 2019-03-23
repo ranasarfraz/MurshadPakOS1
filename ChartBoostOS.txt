@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.extreme.productions.highwayway.car.transform.stunts2019",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.productions.highwayway.car.transform.stunts2019",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19"
+    "FirstGameBundleID":"com.abdul.ghafoor.boat.fishing.simulator2019",
+    "Gameurl1": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
+    "Gameurl2": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276"
 }
 
