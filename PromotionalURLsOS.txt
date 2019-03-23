@@ -1,7 +1,7 @@
 {
-  	"Gameurl1": "https://play.google.com/store/apps/details?id=com.extreme.productions.highwayway.car.transform.stunts2019",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.infinity.avenger.hero.superhero.fighting.game.immortal.shadow.war2k19",
-	"Gameurl3": "https://play.google.com/store/apps/details?id=com.extreme.productions.gwadar.ship.simulator2019.boat.games",
-	"Gameurl4": "https://play.google.com/store/apps/details?id=com.ultimate.clash.action.bottle.shooter.expert3d.shooting.game"
+  	"Gameurl1": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
+	"Gameurl2": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
+	"Gameurl3": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
+	"Gameurl4": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276"
     
 }
