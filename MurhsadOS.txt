@@ -26,9 +26,9 @@
       "StaticAdPeriority": "Admob",
       "isBannerAdPeriorityMatters": false,
       "BannerAdPeriority": "Admob",
-      "UnityAdIds": "1518267508",
-      "AdmobBannerAdIds": "ca-app-pub-7880512199885088/3940249798964433",
-      "AdmobInsterstitialAdIds": "ca-app-pub-7880512199885088/3940255066768832"
+      "UnityAdIds": "37704823735988",
+      "AdmobBannerAdIds": "ca-app-pub-4751558687015076/2375774330747643",
+      "AdmobInsterstitialAdIds": "ca-app-pub-4751558687015076/2375776410116070"
     },
      {
       "BundleId": "com.gladiators.testIds",
