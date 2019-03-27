@@ -2,6 +2,6 @@
 {
     "FirstGameBundleID":"com.abdul.ghafoor.boat.fishing.simulator2019",
     "Gameurl1": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
-    "Gameurl2": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276"
+    "Gameurl2": "https://itunes.apple.com/us/app/helirobot-transform-2019/id1457346171"
 }
 
