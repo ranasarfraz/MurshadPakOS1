@@ -2,8 +2,8 @@
   "AdIds": [
     {
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.mad.truck.driving20",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
     },
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
