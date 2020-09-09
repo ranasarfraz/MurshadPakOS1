@@ -1,7 +1,7 @@
 {
   "AdIds": [
     {
-      "BundleId": "com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
+      "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.mad.truck.driving20",
       "ShowAdsFlag": true
     },
     {
