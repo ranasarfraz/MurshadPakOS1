@@ -6,9 +6,14 @@
       "ShowCustomNativeAdsFlag": false
     },
     {
-      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "BundleId": "com.abdul.ghafoor.monster.bus.demolition.derby.destruction2020",
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
+    },
+    {
+      "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
     }    
   ]
 }
