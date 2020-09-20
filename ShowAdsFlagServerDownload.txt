@@ -19,7 +19,7 @@
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.6"
+      "BundleVersionCode": "1.7"
     }     
   ]
 }
