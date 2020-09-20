@@ -14,6 +14,12 @@
       "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true
-    }    
+    },
+    {
+      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.6"
+    }     
   ]
 }
