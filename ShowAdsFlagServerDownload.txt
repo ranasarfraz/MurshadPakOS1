@@ -2,8 +2,8 @@
   "AdIds": [
     {
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.mad.truck.driving20",
-      "ShowAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
     },
     {
