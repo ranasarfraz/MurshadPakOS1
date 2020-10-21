@@ -1,6 +1,6 @@
 {
-  	"Gameurl1": "https://itunes.apple.com/us/app/team-death-match-4x4/id1505109728",
-	"Gameurl2": "https://itunes.apple.com/us/app/helirobot-transform-2019/id1457346171",
+  	"Gameurl1": "https://itunes.apple.com/us/app/modern-tractor-farming-sim-20/id1531318682",
+	"Gameurl2": "https://itunes.apple.com/us/app/monster-bus-demolition-derby/id1531319281",
 	"Gameurl3": "https://itunes.apple.com/us/app/fury-monster-truck-4x4/id1483665819",
 	"Gameurl4": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276"
     
