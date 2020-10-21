@@ -1,0 +1,26 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.mad.truck.driving20",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.abdul.ghafoor.monster.bus.demolition.derby.destruction2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
+    },
+    {
+      "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
+    },
+    {
+      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.7"
+    }     
+  ]
+}
