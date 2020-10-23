@@ -9,12 +9,14 @@
     {
       "BundleId": "com.abdul.ghafoor.monster.bus.demolition.derby.destruction2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     },
     {
       "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     },
     {
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.truck4x4.mad.truck.driving20",
