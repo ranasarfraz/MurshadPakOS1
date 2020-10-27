@@ -28,7 +28,7 @@
       "BundleId": "com.abdulghafoor.monster.truck4x4.demolisher.derby",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
+      "BundleVersionCode": "1.8"
     }     
   ]
 }
