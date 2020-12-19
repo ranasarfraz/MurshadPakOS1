@@ -29,6 +29,42 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "2.0"
-    }    
+    },
+    {
+      "BundleId": "com.abdulghafoor.formula.car.demolition.derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.abdulghafoor.atv.quadbike.bike4x4derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.abdulghafoor.monster.truck4x4.ramp.stunts2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.abdulghafoor.antiterrorist.commando4v4",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.abdulghafoor.fps.commando.secretmission",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.abdulghafoor.gwadar.ship.simulator2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.3"
+    }              
   ]
 }
