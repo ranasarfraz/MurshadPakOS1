@@ -52,13 +52,13 @@
       "BundleId": "com.abdulghafoor.antiterrorist.commando4v4",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.abdulghafoor.fps.commando.secretmission",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     },
     {
       "BundleId": "com.abdulghafoor.gwadar.ship.simulator2020",
