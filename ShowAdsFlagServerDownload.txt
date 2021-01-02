@@ -58,7 +58,7 @@
       "BundleId": "com.abdulghafoor.fps.commando.secretmission",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.abdulghafoor.gwadar.ship.simulator2020",
