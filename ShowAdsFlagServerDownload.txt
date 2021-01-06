@@ -34,7 +34,7 @@
       "BundleId": "com.abdulghafoor.formula.car.demolition.derby2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.3"
     },
     {
       "BundleId": "com.abdulghafoor.atv.quadbike.bike4x4derby2021",
