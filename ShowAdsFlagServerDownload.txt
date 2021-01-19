@@ -10,7 +10,7 @@
       "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.truck4x4.mad.truck.driving20",
@@ -70,7 +70,7 @@
       "BundleId": "com.abdul.ghafoor.fury.monster.truck4x4.com",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.5"
+      "BundleVersionCode": "1.6"
     },
     {
       "BundleId": "com.abdul.ghafoor.megaramp.gtcarstunt.games2021",
