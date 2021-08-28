@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.abdul.ghafoor.modern.tractor.farming.sim20",
-    "Gameurl1": "https://itunes.apple.com/us/app/modern-tractor-farming-sim-20/id1531318682",
-    "Gameurl2": "https://itunes.apple.com/us/app/monster-bus-demolition-derby/id1531319281"
+    "FirstGameBundleID":"com.ahmadzubair.monstertruck.demolitionderby.crashdestruction2021",
+    "Gameurl1": "https://itunes.apple.com/us/app/monster-truck-derby-demolition/id1580600670",
+    "Gameurl2": "https://itunes.apple.com/us/app/school-bus-4x4-derby/id1580600777"
 }
 
