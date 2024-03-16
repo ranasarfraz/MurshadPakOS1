@@ -1,6 +1,6 @@
 {
   	"Gameurl1": "https://itunes.apple.com/us/app/monster-truck-derby-demolition/id1580600670",
-	"Gameurl2": "https://itunes.apple.com/us/app/train-car-crash-derby-sim-2021/id1579354071",
+	"Gameurl2": "https://itunes.apple.com/us/app/bike-vegas-city-tour-ridding/id6478599188",
 	"Gameurl3": "https://itunes.apple.com/us/app/school-bus-4x4-derby/id1580600777",
 	"Gameurl4": "https://itunes.apple.com/us/app/formula-car-destruction-derby/id1580888005"
     
